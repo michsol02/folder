@@ -2969,10 +2969,13 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-s1B8ERusNr .section-text DIV {
+  text-align: center;
+}
 .cid-s1BJ5KaOPS {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #cccccc;
 }
 .cid-s1BJ5KaOPS .title {
   margin-bottom: 2rem;
