@@ -2438,13 +2438,17 @@ section.lazy-placeholder:after {
   padding-bottom: 0px;
   background-image: url("../../../assets/images/shutterstock-592190993-1000x667.jpg");
 }
-.cid-s2K4bvDLby {
+.cid-s3cP7eIrRX {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-s2K4bvDLby .mbr-section-subtitle {
+.cid-s3cP7eIrRX P {
   color: #767676;
+}
+.cid-s3cP7eIrRX .mbr-text,
+.cid-s3cP7eIrRX .mbr-section-btn {
+  color: #5b686b;
 }
 .cid-s2K3pQe6tP {
   padding-top: 45px;
@@ -2523,7 +2527,7 @@ section.lazy-placeholder:after {
   margin-bottom: 2rem;
 }
 .cid-s1BH84LS4N .mbr-section-subtitle {
-  color: #767676;
+  color: #465052;
 }
 .cid-s1BH84LS4N a:not([href]):not([tabindex]) {
   color: #fff;
@@ -3010,13 +3014,17 @@ section.lazy-placeholder:after {
   padding-bottom: 15px;
   background-image: url("../../../assets/images/how-to-determine-your-salary-business-owner-1000x667.jpg");
 }
-.cid-s2KfhJssKm {
+.cid-s3cPnlRepz {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-s2KfhJssKm .mbr-section-subtitle {
+.cid-s3cPnlRepz P {
   color: #767676;
+}
+.cid-s3cPnlRepz .mbr-text,
+.cid-s3cPnlRepz .mbr-section-btn {
+  color: #5b686b;
 }
 .cid-s2KbX4Mi40 {
   padding-top: 45px;
@@ -3109,7 +3117,7 @@ section.lazy-placeholder:after {
   margin-bottom: 2rem;
 }
 .cid-s1BJ5KaOPS .mbr-section-subtitle {
-  color: #767676;
+  color: #465052;
 }
 .cid-s1BJ5KaOPS a:not([href]):not([tabindex]) {
   color: #fff;
@@ -3585,13 +3593,17 @@ section.lazy-placeholder:after {
   padding-bottom: 45px;
   background-image: url("../../../assets/images/3500-1-1240x744.jpeg");
 }
-.cid-s2KnwR9Xg0 {
+.cid-s3cOOtmCpZ {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-s2KnwR9Xg0 .mbr-section-subtitle {
+.cid-s3cOOtmCpZ P {
   color: #767676;
+}
+.cid-s3cOOtmCpZ .mbr-text,
+.cid-s3cOOtmCpZ .mbr-section-btn {
+  color: #5b686b;
 }
 .cid-s2KnsEv7M0 {
   padding-top: 45px;
@@ -3670,7 +3682,7 @@ section.lazy-placeholder:after {
   margin-bottom: 2rem;
 }
 .cid-s1BDMMGBHF .mbr-section-subtitle {
-  color: #767676;
+  color: #465052;
 }
 .cid-s1BDMMGBHF a:not([href]):not([tabindex]) {
   color: #fff;
