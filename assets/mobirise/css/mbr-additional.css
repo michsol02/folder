@@ -4207,19 +4207,29 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
   }
 }
-.cid-s2JKjuNn7U {
-  padding-top: 135px;
-  padding-bottom: 30px;
+.cid-s3ijrfM12r {
+  padding-top: 105px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/london-aerial-thames-guide-1.webp");
+}
+.cid-s3ijrfM12r P {
+  color: #767676;
+}
+.cid-s3ijrfM12r .mbr-text,
+.cid-s3ijrfM12r .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-s3ijrfM12r H1 {
+  color: #ffffff;
 }
 .cid-s2JRKGyI0H {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #232323;
+  background-color: #000000;
 }
 .cid-s2JRKGyI0H .line {
-  background-color: #232323;
-  color: #232323;
+  background-color: #000000;
+  color: #000000;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -4235,41 +4245,25 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-s2JRUYDULd {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #232323;
-}
-.cid-s2JRUYDULd .mbr-text {
-  color: #ffffff;
-}
-.cid-s2JRUYDULd .mbr-text p {
-  background: #232323;
-}
-.cid-s2JTUKzu3O {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
 .cid-s2JXIUAwDg {
-  padding-top: 75px;
+  padding-top: 15px;
   padding-bottom: 75px;
-  background-color: #232323;
+  background-color: #000000;
 }
 .cid-s2JXIUAwDg .mbr-text {
   color: #ffffff;
 }
 .cid-s2JKjAvGCO {
   padding-top: 30px;
-  padding-bottom: 15px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-s2JKjAvGCO .mbr-section-subtitle {
-  color: #767676;
+  color: #465052;
   font-weight: 300;
 }
 .cid-s2JKjAvGCO .mbr-content-text {
-  color: #767676;
+  color: #4f4943;
 }
 .cid-s2JKjAvGCO .card {
   word-wrap: break-word;
@@ -4316,6 +4310,29 @@ section.lazy-placeholder:after {
     -webkit-flex-basis: 100%;
     padding-left: 0;
     padding-bottom: 2rem;
+  }
+}
+.cid-s3ilsVBFmv {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-s3ilsVBFmv .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s3ilsVBFmv .section-text {
+  padding: 2rem 0;
+}
+.cid-s3ilsVBFmv .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s3ilsVBFmv .inner-container {
+    width: 100% !important;
   }
 }
 .cid-s2JKjwHbv5 {
