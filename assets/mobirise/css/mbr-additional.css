@@ -3292,7 +3292,7 @@ section.lazy-placeholder:after {
 }
 .cid-s9rHtYXMfC {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-s9rHtYXMfC .mbr-text {
@@ -3303,9 +3303,9 @@ section.lazy-placeholder:after {
 }
 .cid-s9rwVlmLzH {
   background: #ffffff;
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 30px;
-  background: linear-gradient(0deg, #55b4d4, #ffffff);
+  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-s9rwVlmLzH .image-block {
   margin: auto;
