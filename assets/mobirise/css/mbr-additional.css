@@ -3455,7 +3455,7 @@ section.lazy-placeholder:after {
 }
 .cid-s9rHkoKrA2 {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s9rHkoKrA2 .mbr-text {
@@ -3468,7 +3468,7 @@ section.lazy-placeholder:after {
   background: #ffffff;
   padding-top: 30px;
   padding-bottom: 30px;
-  background: linear-gradient(0deg, #55b4d4, #ffffff);
+  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-s9rxye0LT5 .image-block {
   margin: auto;
