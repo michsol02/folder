@@ -2630,11 +2630,11 @@ section.lazy-placeholder:after {
 .cid-s9m7NiB0bQ {
   padding-top: 105px;
   padding-bottom: 15px;
-  background-color: #0f7699;
+  background-color: #ffffff;
 }
 .cid-s9m7NiB0bQ .line {
-  background-color: #0f7699;
-  color: #0f7699;
+  background-color: #ffffff;
+  color: #ffffff;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -2642,6 +2642,7 @@ section.lazy-placeholder:after {
 .cid-s9m7NiB0bQ .section-text {
   padding: 2rem 0;
   text-align: left;
+  color: #e70941;
 }
 .cid-s9m7NiB0bQ .inner-container {
   margin: 0 auto;
