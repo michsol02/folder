@@ -3250,11 +3250,11 @@ section.lazy-placeholder:after {
 .cid-s9m89uXA8l {
   padding-top: 105px;
   padding-bottom: 15px;
-  background-color: #0f7699;
+  background-color: #ffffff;
 }
 .cid-s9m89uXA8l .line {
-  background-color: #0f7699;
-  color: #0f7699;
+  background-color: #ffffff;
+  color: #ffffff;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -3262,6 +3262,7 @@ section.lazy-placeholder:after {
 .cid-s9m89uXA8l .section-text {
   padding: 2rem 0;
   text-align: left;
+  color: #e70941;
 }
 .cid-s9m89uXA8l .inner-container {
   margin: 0 auto;
@@ -3299,37 +3300,14 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-color: #efefef;
 }
-.cid-s9rNBx152V {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
-.cid-s9rNBx152V .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-s9rNBx152V .section-text {
-  padding: 2rem 0;
-}
-.cid-s9rNBx152V .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-s9rNBx152V .inner-container {
-    width: 100% !important;
-  }
-}
 .cid-s9rwXZRopJ {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #55b4d4;
+  background-color: #0f7699;
 }
 .cid-s9rwXZRopJ .line {
-  background-color: #55b4d4;
-  color: #55b4d4;
+  background-color: #0f7699;
+  color: #0f7699;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -3403,13 +3381,13 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s9rx2CV6lE {
-  padding-top: 15px;
+  padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #55b4d4;
+  background-color: #0f7699;
 }
 .cid-s9rx2CV6lE .line {
-  background-color: #55b4d4;
-  color: #55b4d4;
+  background-color: #0f7699;
+  color: #0f7699;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -3486,13 +3464,13 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-s9rxxi8Smt {
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #55b4d4;
+  background-color: #0f7699;
 }
 .cid-s9rxxi8Smt .line {
-  background-color: #55b4d4;
-  color: #55b4d4;
+  background-color: #0f7699;
+  color: #0f7699;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -3564,6 +3542,11 @@ section.lazy-placeholder:after {
   .cid-s9rJKCKuML .inner-container {
     width: 100% !important;
   }
+}
+.cid-saQLOZzAKr {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #efefef;
 }
 .cid-s9yx7FYYu5 {
   padding-top: 60px;
