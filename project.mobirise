@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sept 2020",
-    "currentPage": "index.html",
+    "currentPage": "how-R100-works.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 150,
+    "uniqCompNum": 152,
     "versionPublish": "4.12.4",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -1888,11 +1888,11 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><b>Next we’ll work out how you currently perform on your priority issues</b>. We do this by prompting some basic disclosures as to relevant practices or policies - possibly involving a selection of employees or other stakeholders if that is appropriate - and asking a few follow up questions. We’ll quickly build up a picture and basic written summary of your current policies and practices. These written accounts may form the basis for internal or external reporting in due course.</div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><span style=\"font-size: 1.5rem;\"><b>Next we’ll work out how you currently perform on your priority issues</b>. We do this by prompting some basic disclosures as to relevant practices or policies - possibly involving a selection of employees or other stakeholders if that is appropriate - and asking a few follow up questions. We’ll quickly build up a picture and basic written summary of your current policies and practices. These written accounts may form the basis for internal or external reporting in due course.</span><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-46",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
-          "_cid": "s9qE4qBDRh",
-          "_anchor": "content1-1u",
+          "_cid": "sbdMz4gZuG",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1988,11 +1988,11 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Now we can address that most critical of questions: where should our business invest its precious, limited resources to affect the most urgently needed change? </b>In the below, that would be on Transitioning To A Low Carbon Economy and Employee Mental Health &amp; Well-being, two top priority (or 'must report on') issues, where in the example performance is currently POOR. Thereafter, improving on OKAY on the top priority issues of Modern Slavery and Living Wage would compete for attention and resources with the two 'should/will report on' issues where performance is currently POOR (i.e. Lobbying &amp; Influence and Whistleblowing).</p></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-3v",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><span style=\"font-size: 1.5rem;\"><b>Now we can address that most critical of questions: where should our business invest its precious, limited resources to affect the most urgently needed change</b>? In the below, that would be on Transitioning To A Low Carbon Economy and Employee Mental Health &amp; Well-being, two top priority (or 'must report on') issues, where in the example performance is currently POOR. Thereafter, improving on OKAY on the top priority issues of Modern Slavery and Living Wage would compete for attention and resources with the two 'should/will report on' issues where performance is currently POOR (i.e. Lobbying &amp; Influence and Whistleblowing).</span><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-47",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
-          "_cid": "saQdjHWZm4",
+          "_cid": "sbdMNyO72z",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
