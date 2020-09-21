@@ -4598,7 +4598,7 @@ section.lazy-placeholder:after {
   margin-bottom: 2rem;
 }
 .cid-s9x55ae20m .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-s9x55ae20m a:not([href]):not([tabindex]) {
   color: #fff;
@@ -4609,6 +4609,9 @@ section.lazy-placeholder:after {
 }
 .cid-s9x55ae20m textarea.form-control {
   min-height: 188px;
+}
+.cid-s9x55ae20m H2 {
+  color: #4f4943;
 }
 .cid-saR3llThD8 {
   padding-top: 60px;
