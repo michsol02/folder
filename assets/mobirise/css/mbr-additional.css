@@ -2602,33 +2602,11 @@ section.lazy-placeholder:after {
 }
 .cid-sbYEIxsYUW {
   padding-top: 45px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-sbYEIxsYUW .mbr-text {
   color: #767676;
-}
-.cid-s9rCsAqR1r {
-  background: #ffffff;
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background: linear-gradient(0deg, #ffffff, #ffffff);
-}
-.cid-s9rCsAqR1r .image-block {
-  margin: auto;
-}
-.cid-s9rCsAqR1r figcaption {
-  position: relative;
-}
-.cid-s9rCsAqR1r figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-s9rCsAqR1r .image-block {
-    width: 100% !important;
-  }
 }
 .cid-s9wWhHitPw {
   padding-top: 30px;
@@ -2650,6 +2628,68 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 768px) {
   .cid-s9wWhHitPw .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-sbYLXCpypA {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-sbYLXCpypA .mbr-text,
+.cid-sbYLXCpypA blockquote {
+  color: #767676;
+}
+.cid-sbYLYMI6Hy {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-sbYLYMI6Hy .image-block {
+  margin: auto;
+}
+.cid-sbYLYMI6Hy figcaption {
+  position: relative;
+}
+.cid-sbYLYMI6Hy figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-sbYLYMI6Hy .image-block {
+    width: 100% !important;
+  }
+}
+.cid-sbYM1aBjvz {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-sbYM1aBjvz .mbr-text,
+.cid-sbYM1aBjvz blockquote {
+  color: #767676;
+}
+.cid-sbYM28HDVV {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-sbYM28HDVV .image-block {
+  margin: auto;
+}
+.cid-sbYM28HDVV figcaption {
+  position: relative;
+}
+.cid-sbYM28HDVV figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-sbYM28HDVV .image-block {
     width: 100% !important;
   }
 }
