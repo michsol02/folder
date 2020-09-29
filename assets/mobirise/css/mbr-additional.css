@@ -2618,6 +2618,30 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-sbZ5w0vaGJ {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #0f7699;
+}
+.cid-sbZ5w0vaGJ .line {
+  background-color: #0f7699;
+  color: #0f7699;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sbZ5w0vaGJ .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-sbZ5w0vaGJ .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sbZ5w0vaGJ .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-sbYEIxsYUW {
   padding-top: 45px;
   padding-bottom: 30px;
@@ -2626,14 +2650,29 @@ section.lazy-placeholder:after {
 .cid-sbYEIxsYUW .mbr-text {
   color: #767676;
 }
-.cid-sbYLXCpypA {
-  padding-top: 45px;
+.cid-sbZ5AJC4VI {
+  padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #0f7699;
 }
-.cid-sbYLXCpypA .mbr-text,
-.cid-sbYLXCpypA blockquote {
-  color: #767676;
+.cid-sbZ5AJC4VI .line {
+  background-color: #0f7699;
+  color: #0f7699;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sbZ5AJC4VI .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-sbZ5AJC4VI .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sbZ5AJC4VI .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-sbYU30vEmp {
   padding-top: 30px;
@@ -2671,6 +2710,30 @@ section.lazy-placeholder:after {
   padding-bottom: 45px;
   background-color: #efefef;
 }
+.cid-sbZ5C2sMAI {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #0f7699;
+}
+.cid-sbZ5C2sMAI .line {
+  background-color: #0f7699;
+  color: #0f7699;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sbZ5C2sMAI .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-sbZ5C2sMAI .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sbZ5C2sMAI .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-sbYUlnCIJL {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2695,6 +2758,30 @@ section.lazy-placeholder:after {
 .cid-sbYUlnCIJL .mbr-section-btn {
   color: #465052;
   text-align: left;
+}
+.cid-sbZ5GyCczD {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #0f7699;
+}
+.cid-sbZ5GyCczD .line {
+  background-color: #0f7699;
+  color: #0f7699;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sbZ5GyCczD .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-sbZ5GyCczD .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sbZ5GyCczD .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-sbYM1aBjvz {
   padding-top: 45px;
