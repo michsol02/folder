@@ -2089,6 +2089,39 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-sc5THKeBtH {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #0f7699;
+}
+.cid-sc5THKeBtH .line {
+  background-color: #0f7699;
+  color: #0f7699;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sc5THKeBtH .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-sc5THKeBtH .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sc5THKeBtH .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-sc5TvOvZuu {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-sc5TvOvZuu .mbr-text,
+.cid-sc5TvOvZuu blockquote {
+  color: #767676;
+}
 .cid-sbucwZRXTD {
   padding-top: 45px;
   padding-bottom: 45px;
