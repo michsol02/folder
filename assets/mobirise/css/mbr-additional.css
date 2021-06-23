@@ -1735,14 +1735,61 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-sBaMPeEO5m {
+.cid-sBbwMGzB9b {
   padding-top: 45px;
   padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-sBbwMGzB9b .mbr-text,
+.cid-sBbwMGzB9b blockquote {
+  color: #767676;
+}
+.cid-sBaMPeEO5m {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-sBaMPeEO5m .mbr-text,
 .cid-sBaMPeEO5m blockquote {
   color: #767676;
+}
+.cid-sBbvwAlxSQ {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #0f7699;
+}
+.cid-sBbvwAlxSQ .line {
+  background-color: #0f7699;
+  color: #0f7699;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sBbvwAlxSQ .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-sBbvwAlxSQ .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sBbvwAlxSQ .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-sBbvxvJlQS {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-sBbvxvJlQS .mbr-text,
+.cid-sBbvxvJlQS blockquote {
+  color: #767676;
+}
+.cid-sBbvv7Kb8Z {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
 }
 .cid-s9qE4bVfdN {
   padding-top: 0px;
@@ -1796,8 +1843,8 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-s9qE4cRKp4 {
-  padding-top: 45px;
-  padding-bottom: 0px;
+  padding-top: 15px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-s9qE4cRKp4 .mbr-text,
@@ -1856,6 +1903,30 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 768px) {
   .cid-s9qE4r9eGX .image-block {
+    width: 100% !important;
+  }
+}
+.cid-sBbvnnUcgK {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #0f7699;
+}
+.cid-sBbvnnUcgK .line {
+  background-color: #0f7699;
+  color: #0f7699;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sBbvnnUcgK .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-sBbvnnUcgK .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sBbvnnUcgK .inner-container {
     width: 100% !important;
   }
 }
