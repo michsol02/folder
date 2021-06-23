@@ -1079,13 +1079,13 @@ section.lazy-placeholder:after {
   color: #767676 !important;
 }
 .cid-sBarxlfE0N {
-  padding-top: 60px;
+  padding-top: 75px;
   padding-bottom: 0px;
   background-color: #4f4943;
 }
 .cid-sBarxlfE0N .line {
-  background-color: #ffffff;
-  color: #ffffff;
+  background-color: #4f4943;
+  color: #4f4943;
   align: center;
   height: 2px;
   margin: 0 auto;
