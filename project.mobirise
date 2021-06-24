@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 253,
+    "uniqCompNum": 257,
     "versionPublish": "5.3.10",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -1367,35 +1367,13 @@
           },
           "_name": "content1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Any business or organisation - irrespective of its size or sector - can participate.</p></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-6y",
-          "_isUserblock": true,
-          "_cid": "sBbwMGzB9b",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>1. <b>ASSESS </b>your immediate priorities\n</p><p>2. <b>INVITE </b>your stakeholders to support and participate \n</p><p>3. <b>BENCHMARK </b>your performance - versus peers and over time\n</p><p>4. <b>IMPROVE </b>your impact on your priority issue areas\n</p><p>5. <b>REVEAL </b>details of the progress and impact you make</p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sBeFCru8Uo",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            }
-          },
-          "_name": "content1",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><span style=\"font-size: 1.5rem;\">1. </span><b style=\"font-size: 1.5rem;\">ASSESS </b><span style=\"font-size: 1.5rem;\">your immediate priorities</span><br></p><p><span style=\"font-size: 1.5rem;\">2. <b>INVITE </b>your stakeholders to support and participate&nbsp;</span><br></p><p><span style=\"font-size: 1.5rem;\">3. <b>BENCHMARK </b>your performance - versus peers and over time</span><br></p><p><span style=\"font-size: 1.5rem;\">4. <b>IMPROVE </b>your impact on your priority issue areas</span><br></p><p><span style=\"font-size: 1.5rem;\">5. <b>REVEAL </b>details of the progress and impact you make</span></p></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-6b",
-          "_isUserblock": true,
-          "_cid": "sBaMPeEO5m",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "content1-73"
         },
         {
           "alias": false,
@@ -1446,14 +1424,13 @@
           },
           "_name": "content1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>A huge benefit for participants, and a key point of differentiation, is how straightforward it is to get started with Responsible 100.</p><p>We simply ask you to consider some of the social, environmental and ethical issues that affect your company, and indicate which are the most important. We currently explore 30 separate responsibility issues, across 8 categories.</p></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-6x",
-          "_isUserblock": true,
-          "_cid": "sBbvxvJlQS",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>It could not be more straightforward to get started with Responsible 100 and start your journey to greater responsibility.\n</p><p>You simply need to consider some of the social, environmental and ethical issues that affect your company, and decide which - in your own opinion - are the most important. We currently explore 30 separate responsibility issues, across 8 categories.</p><p>\n</p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sBeFXyF3BK",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "content1-74"
         },
         {
           "alias": false,
@@ -1877,16 +1854,16 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
+            ".mbr-text": {
               "color": "#767676"
             }
           },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><span style=\"font-size: 1rem;\">Ultimately we want to address that most critical of questions: where should our business invest its precious, limited resources to affect the most urgently needed change?</span><br></p><p><span style=\"font-size: 1rem;\">Action and improvement are your ultimate goals. This multi-step process determines where they should be attempted first.</span><br></p><p><span style=\"font-size: 1rem;\">It is usually in respect of highest priority issues where your current performance is POOR, and where change is not only desirable but also achievable, affordable, appropriate, and where consequential increased positive impacts on people and planet - and decreased negative impacts - are very probable.</span><br></p><p><span style=\"font-size: 1rem;\">Responsible 100 will confirm all the above in the scoping and planning stages, and then support you in making changes to policy and practice to improve.</span><br></p><p><span style=\"font-size: 1rem;\">As performance is improved on such issues, you'll next invest in improvement on issues of slightly lower priority, or where your performance is already OKAY at least, or where change is more difficult, or expensive, or the desired outcomes or improvements are less certain to be achieved.Responsible 100 supports this systematic and relentless approach to performing as well as possible, across everything, knowing full well that everything at once is impossible.</span><br></p><p>\n</p><p>\n</p><p>\n</p><p>\n</p></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-5z",
-          "_isUserblock": true,
+          "_name": "content3",
           "_sourceTheme": "mobirise4",
-          "_cid": "sc5TvOvZuu",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n        </select>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-12': cardsAmount == 1, 'col-md-4': cardsAmount == 3}\">\n                     <p>Ultimately we want to address that most critical of questions: where should our business invest its precious, limited resources to affect the most urgently needed change?\n</p><p>Action and improvement are your ultimate goals. This multi-step process determines where they should be attempted first.\n</p><p>It is usually in respect of highest priority issues where your current performance is POOR, and where change is not only desirable but also achievable, affordable, appropriate, and where consequential increased positive impacts on people and planet - and decreased negative impacts - are very probable.\n</p><p>Responsible 100 will confirm all the above in the scoping and planning stages, and then support you in making changes to policy and practice to improve.\n</p><p>As performance is improved on such issues, you'll next invest in improvement on issues of slightly lower priority, or where your performance is already OKAY at least, or where change is more difficult, or expensive, or the desired outcomes or improvements are less certain to be achieved. Responsible 100 supports this systematic and relentless approach to performing as well as possible, across everything, knowing full well that everything at once is impossible.</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>\n                </div>\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-4': cardsAmount == 3}\" mbr-if=\"cardsAmount > 1\">\n                     <p><span style=\"font-size: 1.5rem;\">Every time a business assesses against an issue and the associated Responsible 100 benchmark, our collective, shared knowledge and understanding is broadened.</span></p><p><span style=\"font-size: 1.5rem;\">We've created virtuous circles around these critical social, environmental and ethical issues. As businesses discover and learn more, and consider their current policies and practices in a new light, and describe what they do now, and which opportunities to change and improve that they intend to pursue, our whole community benefits. With every use, the benchmarks are improved for the next participant.</span></p>\n                </div>\n                <div class=\"col-12 col-md-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-if=\"cardsAmount > 2\">\n                     <p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content3-71",
+          "_isUserblock": true,
+          "_cid": "sBeEKroaf1",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
