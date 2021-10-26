@@ -1848,25 +1848,6 @@ section.lazy-placeholder:after {
   color: #767676;
   text-align: left;
 }
-.cid-sMVJkFwShG {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-@media (min-width: 992px) {
-  .cid-sMVJkFwShG .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-sMVJkFwShG .mbr-figure {
-    padding-top: 1rem;
-  }
-}
-.cid-sMVJkFwShG .mbr-text {
-  color: #767676;
-  text-align: left;
-}
 .cid-sBbvnnUcgK {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1947,14 +1928,22 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-color: #ffffff;
 }
+.cid-sBaCXuBHHQ .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
 @media (min-width: 992px) {
   .cid-sBaCXuBHHQ .mbr-figure {
-    padding-left: 4rem;
+    padding-right: 4rem;
   }
 }
-@media (max-width: 992px) {
+@media (max-width: 991px) {
+  .cid-sBaCXuBHHQ .media-container-row {
+    flex-wrap: wrap-reverse;
+    -webkit-flex-wrap: wrap-reverse;
+  }
   .cid-sBaCXuBHHQ .mbr-figure {
-    padding-top: 1rem;
+    padding-bottom: 1rem;
   }
 }
 .cid-sBaCXuBHHQ .mbr-text {
@@ -1985,6 +1974,15 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-sBceJiWcWR {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-sBceJiWcWR .mbr-text,
+.cid-sBceJiWcWR blockquote {
+  color: #767676;
+}
 .cid-s9qE4r9eGX {
   background: #ffffff;
   padding-top: 30px;
@@ -2006,14 +2004,107 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-sBceJiWcWR {
-  padding-top: 15px;
-  padding-bottom: 45px;
+.cid-sMW1utgZbE {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #0f7699;
+}
+.cid-sMW1utgZbE .line {
+  background-color: #0f7699;
+  color: #0f7699;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sMW1utgZbE .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-sMW1utgZbE .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sMW1utgZbE .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-sMW1wLd9aB {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-sBceJiWcWR .mbr-text,
-.cid-sBceJiWcWR blockquote {
+.cid-sMW1wLd9aB .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-sMW1wLd9aB .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sMW1wLd9aB .media-container-row {
+    flex-wrap: wrap-reverse;
+    -webkit-flex-wrap: wrap-reverse;
+  }
+  .cid-sMW1wLd9aB .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-sMW1wLd9aB .mbr-text {
   color: #767676;
+  text-align: left;
+}
+.cid-sMW1ygxvWF {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #0f7699;
+}
+.cid-sMW1ygxvWF .line {
+  background-color: #0f7699;
+  color: #0f7699;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sMW1ygxvWF .section-text {
+  padding: 2rem 0;
+  text-align: left;
+}
+.cid-sMW1ygxvWF .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sMW1ygxvWF .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-sMW1z1sC4x {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-sMW1z1sC4x .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-sMW1z1sC4x .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sMW1z1sC4x .media-container-row {
+    flex-wrap: wrap-reverse;
+    -webkit-flex-wrap: wrap-reverse;
+  }
+  .cid-sMW1z1sC4x .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-sMW1z1sC4x .mbr-text {
+  color: #767676;
+  text-align: left;
 }
 .cid-sBccvCEkUT {
   padding-top: 0px;
@@ -2070,10 +2161,10 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-sBbsTK9pSa {
-  padding-top: 45px;
+.cid-sMWfJywddB {
+  padding-top: 30px;
   padding-bottom: 45px;
-  background-color: #f7ed4a;
+  background-color: #ffffff;
 }
 .cid-sBbqw9qVlQ {
   padding-top: 60px;
