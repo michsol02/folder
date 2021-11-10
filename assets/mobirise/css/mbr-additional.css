@@ -1135,24 +1135,38 @@ section.lazy-placeholder:after {
   padding-bottom: 45px;
   background-color: #fde5eb;
 }
-.cid-sOa23IJ0VC {
-  padding-top: 30px;
-  padding-bottom: 30px;
+.cid-sOne7FE4kK {
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-sOa23IJ0VC .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-sOa23IJ0VC .mbr-figure {
-    padding-top: 1rem;
-  }
-}
-.cid-sOa23IJ0VC .mbr-text {
+.cid-sOne7FE4kK .mbr-text,
+.cid-sOne7FE4kK blockquote {
   color: #767676;
-  text-align: left;
+}
+.cid-sOne7FE4kK .mbr-text P {
+  text-align: center;
+}
+.cid-sOneznS2Dp {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 45px;
+}
+.cid-sOneznS2Dp .image-block {
+  margin: auto;
+}
+.cid-sOneznS2Dp figcaption {
+  position: relative;
+}
+.cid-sOneznS2Dp figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-sOneznS2Dp .image-block {
+    width: 100% !important;
+  }
 }
 .cid-sMRtIl71gF {
   padding-top: 45px;
