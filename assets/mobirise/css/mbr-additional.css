@@ -3740,7 +3740,7 @@ section.lazy-placeholder:after {
 }
 .cid-sbipPKpjMq {
   padding-top: 15px;
-  padding-bottom: 60px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-sbipPKpjMq .mbr-text {
@@ -3751,9 +3751,59 @@ section.lazy-placeholder:after {
   padding-bottom: 45px;
   background-color: #fde5eb;
 }
+.cid-sRn47vF24v {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-sRn47vF24v .line {
+  background-color: #efefef;
+  color: #efefef;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sRn47vF24v .section-text {
+  padding: 2rem 0;
+  text-align: left;
+  color: #e70941;
+}
+.cid-sRn47vF24v .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sRn47vF24v .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-sRn4aS9tum {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-sRn4aS9tum .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sRn4aS9tum .section-text {
+  padding: 2rem 0;
+  text-align: left;
+  color: #767676;
+}
+.cid-sRn4aS9tum .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sRn4aS9tum .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-sRn1KaQaQ7 {
   padding-top: 30px;
-  padding-bottom: 45px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-sRn1KaQaQ7 .mbr-section-subtitle {
@@ -3810,13 +3860,30 @@ section.lazy-placeholder:after {
     padding-bottom: 2rem;
   }
 }
-.cid-sRn1Mg3RWf {
-  padding-top: 45px;
-  padding-bottom: 30px;
+.cid-sRn4iz266M {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-sRn1Mg3RWf .mbr-text {
+.cid-sRn4iz266M .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-sRn4iz266M .section-text {
+  padding: 2rem 0;
+  text-align: left;
   color: #767676;
+}
+.cid-sRn4iz266M .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-sRn4iz266M .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-sRn1SCQ58V {
   padding-top: 0px;
