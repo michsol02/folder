@@ -1221,10 +1221,10 @@ section.lazy-placeholder:after {
   border-radius: 50%;
   content: '✓';
 }
-.cid-sBbsK02u4B {
+.cid-sRuoSSdajw {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #fde5eb;
+  background-color: #faf6bb;
 }
 .cid-sPGRwuXinl {
   padding-top: 60px;
@@ -2409,6 +2409,11 @@ section.lazy-placeholder:after {
   border-radius: 0;
   content: '✓';
 }
+.cid-sRuprvDryh {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #faf6bb;
+}
 .cid-saW8bW2tSU {
   padding-top: 45px;
   padding-bottom: 30px;
@@ -2417,77 +2422,10 @@ section.lazy-placeholder:after {
 .cid-saW8bW2tSU .mbr-text {
   color: #767676;
 }
-.cid-sBbtrPrRAJ {
+.cid-sRupoHFkMN {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #fde5eb;
-}
-.cid-sPGRL4MtDh {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #2e2e2e;
-}
-@media (max-width: 767px) {
-  .cid-sPGRL4MtDh .content {
-    text-align: center;
-  }
-  .cid-sPGRL4MtDh .content > div:not(:last-child) {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-sPGRL4MtDh .media-wrap {
-    margin-bottom: 1rem;
-  }
-}
-.cid-sPGRL4MtDh .media-wrap .mbr-iconfont-logo {
-  font-size: 7.5rem;
-  color: #f36;
-}
-.cid-sPGRL4MtDh .media-wrap img {
-  height: 6rem;
-}
-@media (max-width: 767px) {
-  .cid-sPGRL4MtDh .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-sPGRL4MtDh .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #fff;
-  opacity: .05;
-}
-.cid-sPGRL4MtDh .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  -webkit-justify-content: flex-end;
-}
-.cid-sPGRL4MtDh .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #fff;
-}
-.cid-sPGRL4MtDh .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-sPGRL4MtDh .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-sPGRL4MtDh .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-sPGRL4MtDh .footer-lower .social-list {
-    justify-content: center;
-    -webkit-justify-content: center;
-  }
+  background-color: #faf6bb;
 }
 .cid-s8SuyC79P5 .navbar {
   background: #ffffff;
