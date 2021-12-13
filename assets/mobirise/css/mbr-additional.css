@@ -1718,6 +1718,18 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-sRsJmZtB34 {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-sRsJmZtB34 .mbr-text,
+.cid-sRsJmZtB34 blockquote {
+  color: #767676;
+}
+.cid-sRsJmZtB34 .mbr-text P {
+  text-align: left;
+}
 .cid-s9qE4bVfdN {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1957,6 +1969,9 @@ section.lazy-placeholder:after {
 .cid-sRoqdH3X9i .mbr-text,
 .cid-sRoqdH3X9i blockquote {
   color: #767676;
+}
+.cid-sRoqdH3X9i .mbr-text P {
+  text-align: left;
 }
 .cid-sRoqgleyK1 {
   background: #ffffff;
