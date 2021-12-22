@@ -2180,7 +2180,7 @@
               "color": "#767676"
             },
             ".mbr-text P": {
-              "text-align": "left"
+              "text-align": "center"
             },
             ".mbr-text": {
               "color": "#465052"
