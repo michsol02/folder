@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alexandra's version",
-    "currentPage": "process.html",
+    "currentPage": "workshops.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8764,9 +8764,9 @@
         }
       ]
     },
-    "page10.html": {
+    "workshops.html": {
       "settings": {
-        "meta_descr": "More about Responsible 100 benchmarks",
+        "meta_descr": "More about Responsible 100's workshops with the experts",
         "title": "Workshops",
         "order": 6
       },
