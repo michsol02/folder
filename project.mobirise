@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alexandra's version",
-    "currentPage": "mission.html",
+    "currentPage": "core-beliefs.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 547,
+    "uniqCompNum": 548,
     "versionPublish": "5.4.1",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x114.png",
@@ -8492,22 +8492,16 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text P": {
-              "text-align": "center"
-            },
             ".mbr-text": {
-              "color": "#465052"
+              "color": "#767676"
             }
           },
-          "_name": "content1",
+          "_name": "content3",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Responsible 100 is a community of organisations and individuals. Together we help businesses to prosper, innovate and grow in the true service of people and planet. We share core beliefs and values.&nbsp;&nbsp;</p></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-9j",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n        </select>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-12': cardsAmount == 1, 'col-md-4': cardsAmount == 3}\">\n                     <p>Responsible 100 is a community of groups, organisations and individuals. A wide range of views, experiences and values are held within it. This significant diversity is both welcome and valuable.</p><p>The Responsible 100 community, and the tools and processes it possesses, are geared to support businesses seeking to adopt the best social and environmental practices they possibly can, bespoke to their own particular needs and circumstances, creating both positive social impacts, and driving greater profitability.</p>\n                </div>\n                <div class=\"col-12 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-4': cardsAmount == 3}\" mbr-if=\"cardsAmount > 1\">\n                     <p>The following is not a manifesto, nor is it rigid nor dogmatic. Nonetheless these beliefs and values, which are shared by Responsible 100's founding businesses and partners, are important points of reference for others contemplating whether to also join.&nbsp; &nbsp;</p><p>Together we help businesses to prosper, innovate and grow in the true service of people and planet, irrespective of the size, sector or stating point. If more often than not your words and actions are aligned with the following core beliefs, then you are welcome here.</p>\n                </div>\n                <div class=\"col-12 col-md-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline mbr-if=\"cardsAmount > 2\">\n                     <p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content3-f7",
           "_isUserblock": true,
-          "_cid": "sRt4ZnM4bv",
+          "_cid": "sX2n6BNhyN",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -8561,12 +8555,12 @@
               }
             },
             ".mbr-text": {
-              "color": "#465052"
+              "color": "#767676"
             }
           },
           "_name": "content12",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#e70941\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" condition=\"stylizedCounters\" checked>\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\">Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\" selected>Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul><li><b>WE BELIEVE </b>- business has almost unbridled potential to make the world a better place\n</li><li><b>WE BELIEVE </b>- now is the time to realise it, to solve existential crises which imperil society, nature and humanity's future</li><li><b>WE BELIEVE</b> – it is no longer acceptable nor legitimate to pursue profits that can only be earned by offloading costs onto people or planet or exploiting vulnerable groups&nbsp;</li><li><b>WE BELIEVE </b>– through their choices, actions and agency, individuals will create critical incentives and rewards for businesses to do more good, and do less harm</li><li><b>WE BELIEVE </b>- any business can determine and achieve an optimal balance between delivering its goods and services and pursuing commercial success on one hand, with contribution to people and planet on the other&nbsp;</li><li><b>WE BELIEVE </b>- responsibility is a skill, one that any company can learn and improve on, to increase its knowledge, competence and confidence, to be ever bolder in its actions and decisions, and to deploy its resources ever more efficiently and effectively</li><li><b>WE BELIEVE</b> - despite the obvious moral case, only the economic case has the power to deliver change at the speed and breadth now required</li><li><b>WE BELIEVE </b>- soon, real responsibility will drive up profits, and irresponsible practices will diminish them</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#e70941\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" condition=\"stylizedCounters\" checked>\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\">Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\" selected>Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul><li><b>WE BELIEVE </b>- business has almost unbridled potential to make the world a better place\n</li><li><b>WE BELIEVE </b>- now is the time to realise it, to solve existential crises which imperil society, nature and humanity's future</li><li><b>WE BELIEVE</b> – while it may be legal or customary to offload costs onto society and the environment and exploit vulnerable stakeholders in the pursuit of profit, it is neither legitimate nor acceptable where alternatives exist&nbsp;</li><li><b>WE BELIEVE</b> – businesses that innovate for the common good by producing the goods and services we need without offloading costs or exploiting anyone, and by turning any negative impacts on people and planet into positive impacts, will profit by fixing the worlds problems&nbsp;&nbsp;</li><li><b>WE BELIEVE </b>– through their choices, actions and agency, individuals will create critical incentives and rewards for businesses to do more good, and do less harm</li><li><b>WE BELIEVE </b>- any business can determine and achieve an optimal balance between delivering its goods and services and pursuing commercial success on one hand, with contribution to people and planet on the other&nbsp;</li><li><b>WE BELIEVE </b>- responsibility is a skill, one that any company can learn and improve on, to increase its knowledge, competence and confidence, to be ever bolder in its actions and decisions, and to deploy its resources ever more efficiently and effectively</li><li><b>WE BELIEVE</b> - despite the obvious moral case, only the economic case has the power to deliver change at the speed and breadth now required</li><li><b>WE BELIEVE </b>- soon, real responsibility will drive up profits, and irresponsible practices will diminish them</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sRt4Vyrbue",
           "_anchor": "content12-9i",
           "_protectedParams": [],
@@ -8599,7 +8593,7 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".mbr-text": {
-              "color": "#465052"
+              "color": "#767676"
             }
           },
           "_name": "content3",
