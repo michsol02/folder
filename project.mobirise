@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 566,
+    "uniqCompNum": 567,
     "versionPublish": "5.4.1",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x114.png",
@@ -4235,85 +4235,10 @@
           },
           "_name": "content1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div>Responsible 100 is built on certain experiences and observations about business and systems, and predictions as to their future direction, which combine into something of a theory of change:\n</div><div><br></div><div>++&nbsp; &nbsp;Critical numbers of businesses, and the people who work in them, consider BUSINESS AS USUAL offensive, unacceptable and intolerable, and are now willing and able to take steps to depart from it\n</div><div><br></div><div>++&nbsp; &nbsp;They subscribe to the alternative and the solution to BUSINESS AS USUAL, that is a RACE TO THE TOP, where businesses compete on the price and quality of their goods and services, as they do now, but also on the basis of how much more positively (and less negatively) they can impact people, planet and future generations\n</div><div><br></div><div>++&nbsp; &nbsp;Almost any company can dial down its participation in BUSINESS AS USUAL and dial up its participation in the RACE TO THE TOP, without delay, and move further and faster from one to the other with help, support, recognition and reward\n</div><div><br></div><div>++&nbsp; &nbsp;Growing numbers of consumers, employees and investors are ready to play their parts by buying from, working for and investing in businesses that compete in the RACE TO THE TOP, thus creating critical rewards and incentives\n</div><div><br></div><div>++&nbsp; &nbsp;Sufficient numbers of businesses are prepared to be client user-testers of the 'radical Responsible 100', and to co-develop and participate in its campaign, while paying to use its management tools\n</div><div><br></div><div>++&nbsp; &nbsp;RACE TO THE TOP businesses - and their supporting stakeholders - will change norms: they will raise expectations on all businesses, and raise both the bar and the floor in terms of responsibility performance, transparency and accountability\n</div><div><br></div><div>++&nbsp; &nbsp;Laggard businesses and those otherwise unable or unwilling to extricate themselves from BUSINESS AS USUAL and enter the RACE TO THE TOP will lose their social licence to operate\n</div><div><br></div><div>++&nbsp; &nbsp;Real responsibility will one day drive profitability, and irresponsibility will diminish it, from which point business will become a potent force for good in the world</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div>Responsible 100 is built on certain experiences and observations about business and systems, and predictions as to their future direction, which combine into something of a theory of change:\n</div><div><br></div><div>++&nbsp; &nbsp;Critical numbers of businesses, and the people who work in them, consider BUSINESS AS USUAL offensive, unacceptable and intolerable, and are now willing and able to take steps to depart from it\n</div><div><br></div><div>++&nbsp; &nbsp;They subscribe to the alternative and the solution to BUSINESS AS USUAL, that is a RACE TO THE TOP, where businesses compete on the price and quality of their goods and services, as they do now, but also on the basis of how much more positively (and less negatively) they can impact people, planet and future generations\n</div><div><br></div><div>++&nbsp; &nbsp;Almost any company can dial down its participation in BUSINESS AS USUAL and dial up its participation in the RACE TO THE TOP, without delay, and move further and faster from one to the other with help, support, recognition and reward\n</div><div><br></div><div>++&nbsp; &nbsp;Growing numbers of consumers, employees and investors are ready to play their parts by buying from, working for and investing in businesses that compete in the RACE TO THE TOP, thus creating critical rewards and incentives\n</div><div><br></div><div>++&nbsp; &nbsp;Sufficient numbers of businesses are prepared to be client user-testers of this new version of Responsible 100 and pay to use its management tools and processes while also helping to improve them, and while shaping and participating in Responsible 100 as a campaign and movement too</div><div><br></div><div>++&nbsp; &nbsp;RACE TO THE TOP businesses - and their supporting stakeholders - will change norms: they will raise expectations on all businesses, and raise both the bar and the floor in terms of responsibility performance, transparency and accountability\n</div><div><br></div><div>++&nbsp; &nbsp;Laggard businesses and those otherwise unable or unwilling to extricate themselves from BUSINESS AS USUAL and enter the RACE TO THE TOP will lose their social licence to operate\n</div><div><br></div><div>++&nbsp; &nbsp;Real responsibility will one day drive profitability, and irresponsibility will diminish it, from which point business will become a potent force for good in the world</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-8e",
           "_isUserblock": true,
           "_cid": "sPGLHd2rMe",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            "& when (@reverseContent)": {
-              "@media (min-width: 992px)": {
-                ".mbr-figure": {
-                  "padding-left": "4rem"
-                }
-              },
-              "@media (max-width: 992px)": {
-                ".mbr-figure": {
-                  "padding-top": "1rem"
-                }
-              }
-            },
-            "& when not (@reverseContent)": {
-              ".media-container-row": {
-                "flex-direction": "row-reverse",
-                "-webkit-flex-direction": "row-reverse"
-              },
-              "@media (min-width: 992px)": {
-                ".mbr-figure": {
-                  "padding-right": "4rem"
-                }
-              },
-              "@media (max-width: 991px)": {
-                ".media-container-row": {
-                  "flex-wrap": "wrap-reverse",
-                  "-webkit-flex-wrap": "wrap-reverse"
-                },
-                ".mbr-figure": {
-                  "padding-bottom": "1rem"
-                }
-              }
-            },
-            ".mbr-text": {
-              "color": "#767676",
-              "text-align": "left"
-            }
-          },
-          "_name": "content7",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"130\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\"> \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\">Responsible 100 aims to be a catalyst in the necessary tranistion from our shared BUSINESS AS USUAL to the RACE TO THE TOP. We know that scale and impact can be designed in, and this is very much what we have sought to do. <br><br>If #BAU i.e. BUSINESS AS USUAL is where we start, and #RTTT i.e. the RACE TO THE TOP is our destination, then how many milestones might there be along the way? And what changes from one to the next?&nbsp;<br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/road-map-4-845x554.png\" alt=\"Mobirise\">  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content7-fd",
-          "_isUserblock": true,
-          "_cid": "sX4h2HvwPq",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            }
-          },
-          "_name": "content1",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div>At #2, with as few as 10 paying clients, we believe many of the core assumptions that underpin Responsible 100 will be thoroughly tested. At #3, with 50 early adopter businesses, of all sizes and sectors, we'll be able to demonstrate the power and value of real openness and honesty. At #4, with 100 businesses on board, just imagine if a FTSE listed business is among them, greenwashers would be taking on huge additional risks in persisting with BUSINESS AS USUAL, denial and delusion. At #5, with 250 businesses signed up, public expectations on all businesses really start to shift. At #6, with say 500 businesses on board, laggards and greenwashers face the genuine risk of losing their licence to operate. Could we enter the #RTTT at 1,000 business signed up? At that number, no business could hope to make a credible claim that it was sustainable or responsible without offering cast iron, demonstrable proof.</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-fo",
-          "_isUserblock": true,
-          "_cid": "sX9EwO7XVL",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -4379,10 +4304,64 @@
           },
           "_name": "content1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#abe0f1\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>11. Who is behind Responsible 100?</b></p></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-8h",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#abe0f1\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>11. How many businesses will it take to create a RACE TO THE TOP?</b></p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-fq",
           "_isUserblock": true,
-          "_cid": "sPGLLeQvSz",
+          "_cid": "sXqucoLgGe",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "& when (@reverseContent)": {
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-top": "1rem"
+                }
+              }
+            },
+            "& when not (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              },
+              "@media (min-width: 992px)": {
+                ".mbr-figure": {
+                  "padding-right": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                ".media-container-row": {
+                  "flex-wrap": "wrap-reverse",
+                  "-webkit-flex-wrap": "wrap-reverse"
+                },
+                ".mbr-figure": {
+                  "padding-bottom": "1rem"
+                }
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676",
+              "text-align": "left"
+            }
+          },
+          "_name": "content7",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"130\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Text On Right/Left\" name=\"reverseContent\"> \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12\" mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\">Responsible 100 aims to be a catalyst in the above, that is in our necessary transition from BUSINESS AS USUAL to the RACE TO THE TOP. We know that scale and impact can be designed in, and this is very much what we have sought to do. <br><br>If #BAU i.e. BUSINESS AS USUAL is where we start, and #RTTT i.e. the RACE TO THE TOP is our destination, then how many milestones might there be along the way? And what changes from one to the next?&nbsp;<br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/road-map-4-845x554.png\" alt=\"Mobirise\">  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content7-fd",
+          "_isUserblock": true,
+          "_cid": "sX4h2HvwPq",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -4400,10 +4379,10 @@
           },
           "_name": "content1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div>Responsible 100 is delivered by Profit Through Ethics Ltd an independent, for-profit, impact business based in London, UK.\n</div><div><br></div><div><b>Michael Solomon, Director\n</b></div><div><br></div><div>Michael devised the Responsible 100 concept in 2012 having worked on various forerunning initiatives prior. He has 20 years of experience in innovation and entrepreneurship in responsible business.\n</div><div><br></div><div>View <a href=\"http://www.linkedin.com/pub/michael-solomon/9/537/443\" class=\"text-primary\">Michael’s profile on LinkedIn</a>.\n</div><div><br></div><div><b>Malcolm Bacchus, Adviser &amp; Virtual Finance Director\n</b></div><div><br></div><div>Malcolm is a Chartered Accountant, a company director, an ICAEW Council Member, and an adviser to SMEs on financing, budgeting, strategy and general management issues.\n</div><div><br></div><div>View <a href=\"https://www.linkedin.com/in/malcolm-bacchus-272b5113/\" class=\"text-primary\">Malcolm’s profile on LinkedIn</a>.\n</div><div><br></div><div><b>Andrea Simonetti, Developer\n</b></div><div><br></div><div>Andrea is a devops manager with 12 years experience in commercial applications of data science and technology. He is an ad industry specialist focusing on ad targeting and campaigns performance.\n</div><div><br></div><div>View <a href=\"https://www.linkedin.com/in/andrea-simonetti-16a5a835/\" class=\"text-primary\">Andrea’s profile on LinkedIn</a>.</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content1-8i",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div>At #2, with as few as 10 paying clients, we believe many of the core assumptions that underpin Responsible 100 will be thoroughly tested. At #3, with say 25 early adopter businesses, of varying sizes and sectors, we'll be able to demonstrate the power and value of real openness and honesty. At #4, with perhaps 50 businesses on board, greenwashers would be taking on huge additional risks in persisting with BUSINESS AS USUAL, denial and delusion. At #5, with 100 businesses signed up, public expectations on all businesses really start to shift.</div><div><br></div><div>At #6, with say 250 businesses on board, laggards and greenwashers face the genuine risk of losing their licence to operate. Could we enter the #RTTT with as modest a number as say 500 business signed up? At that number, it would surely be impossible for any business to hope to make a credible claim that it was sustainable or responsible without offering cast iron, demonstrable proof.</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-fo",
           "_isUserblock": true,
-          "_cid": "sPGLLHOoVR",
+          "_cid": "sX9EwO7XVL",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -4449,6 +4428,51 @@
           "_anchor": "content1-8k",
           "_isUserblock": true,
           "_cid": "sPGLMEYq7L",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#465052"
+            }
+          },
+          "_name": "content1",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#abe0f1\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>13. Who is behind Responsible 100?</b></p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-8h",
+          "_isUserblock": true,
+          "_cid": "sPGLLeQvSz",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div>Responsible 100 is delivered by Profit Through Ethics Ltd an independent, for-profit, impact business based in London, UK.\n</div><div><br></div><div><b>Michael Solomon, Director\n</b></div><div><br></div><div>Michael devised the Responsible 100 concept in 2012 having worked on various forerunning initiatives prior. He has 20 years of experience in innovation and entrepreneurship in responsible business.\n</div><div><br></div><div>View <a href=\"http://www.linkedin.com/pub/michael-solomon/9/537/443\" class=\"text-primary\">Michael’s profile on LinkedIn</a>.\n</div><div><br></div><div><b>Malcolm Bacchus, Adviser &amp; Virtual Finance Director\n</b></div><div><br></div><div>Malcolm is a Chartered Accountant, a company director, an ICAEW Council Member, and an adviser to SMEs on financing, budgeting, strategy and general management issues.\n</div><div><br></div><div>View <a href=\"https://www.linkedin.com/in/malcolm-bacchus-272b5113/\" class=\"text-primary\">Malcolm’s profile on LinkedIn</a>.\n</div><div><br></div><div><b>Andrea Simonetti, Developer\n</b></div><div><br></div><div>Andrea is a devops manager with 12 years experience in commercial applications of data science and technology. He is an ad industry specialist focusing on ad targeting and campaigns performance.\n</div><div><br></div><div>View <a href=\"https://www.linkedin.com/in/andrea-simonetti-16a5a835/\" class=\"text-primary\">Andrea’s profile on LinkedIn</a>.</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-8i",
+          "_isUserblock": true,
+          "_cid": "sPGLLHOoVR",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
