@@ -58,7 +58,8 @@
     "gdpr": false,
     "publishChangesOnly": true,
     "mbrsiteDomain": "sshidf95ty",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "UA-37752812-1"
   },
   "pages": {
     "index.html": {
