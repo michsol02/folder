@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alexandra's version",
-    "currentPage": "ukraine.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -540,7 +540,7 @@
               }
             },
             "H2": {
-              "color": "#fbed05"
+              "color": "#f5ea06"
             }
           },
           "_name": "info1",
