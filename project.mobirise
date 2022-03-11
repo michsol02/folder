@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 647,
+    "uniqCompNum": 650,
     "versionPublish": "5.4.1",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x114.png",
@@ -12750,64 +12750,13 @@
             ".mbr-text, blockquote": {
               "color": "#767676"
             },
-            ".mbr-text DIV": {
-              "text-align": "left"
-            },
             ".mbr-text": {
-              "color": "#465052"
+              "color": "#fef115"
             }
           },
           "_name": "content1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#abe0f1\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>1. A crowdsourced resource</b></p></div>\n        </div>\n    </div>\n</section>",
-          "_isUserblock": true,
-          "_cid": "sZ1tdICCC9",
-          "_anchor": "content1-gf",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text DIV": {
-              "text-align": "left"
-            }
-          },
-          "_name": "content1",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div>The invasion of Ukraine presents the world with multiple horrors. Paul Polman ends an excellent recent <a href=\"https://www.linkedin.com/pulse/ukrainian-people-rising-moment-can-business-paul-polman-/\" class=\"text-primary\">blog</a> by urging business to \"do whatever is required of us to help restore stability, uphold basic human values and strengthen the cooperation on which all our futures depend\".</div><div><br></div><div>The ask is a small and simple one: please share basic details of what your company has done - or may yet do - in responding to the crisis, and indicate any help you require to do more. That's it. We'll then seek to collate responses and create a useful resource which we'll make freely and publicly available.</div><div><br></div><div>It struck us that:</div><div><br></div><div><b>&gt;&gt; &gt;&gt;</b></div><div>Most employers and most employees want to take action in response to Putin's despicable invasion of Ukraine;</div><div><br></div><div><b>&gt;&gt;  &gt;&gt;</b></div><div>While many lists of proposed actions do exist the great majority are geared towards help individuals might provide, rather than organisations, teams or colleagues;</div><div><br></div><div><b>&gt;&gt;  &gt;&gt;</b></div><div>Some kind of check list or How To guide listing many examples of different types actions that businesses and other organisations can undertake has strong appeal; and</div><div><br></div><div><b>&gt;&gt;  &gt;&gt;</b></div><div>The greater knowledge that organisations possess in regards to all the different actions they <u>could</u> take, the greater the chances they <u>will do</u> something, or do even more than they'd planned to.</div><div><br></div><div>\n</div><div>If you can contribute to this effort, we'd be delighted to share the results with you at the earliest opportunity.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
-          "_isUserblock": true,
-          "_cid": "sZ1tdJjZ7V",
-          "_anchor": "content1-gg",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text": {
-              "color": "#465052"
-            }
-          },
-          "_name": "content1",
-          "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#abe0f1\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>2. Possible actions (last updated 8 March 2022)</b></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#3076e5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Possible actions (last updated 8 March 2022)</b></p></div>\n        </div>\n    </div>\n</section>",
           "_isUserblock": true,
           "_cid": "sZ1tdJUYr1",
           "_anchor": "content1-gh",
@@ -12831,10 +12780,112 @@
           },
           "_name": "content1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div><b>A. Employee wellbeing and agency\n</b></div><div>+ Check in on your colleagues: what do they think and how are they feeling?\n</div><div>+ Acknowledgement from the top (e.g. chief exec or directors) there is a crisis in Ukraine and we're all affected in different ways\n</div><div>+  Create psychological safety for employees to speak up and share their feelings, worries etc.\n</div><div>+  Seek ideas and other inputs from employees to help shape the company response\n</div><div>+  Encourage discussion and invite employees to collaborate and engage\n</div><div>+  Appoint and task company administrators or contact persons or create employee committees to undertake and coordinate company actions</div><div><br></div><div>  \n</div><div><b>B.  Donate money or other resources\n</b></div><div>+  Donate money or services to support those affected on the ground\n</div><div>+  Match fund employee donations\n</div><div>+  Allow employees to work on the company responses on company time\n</div><div><b><br></b></div><div><b>C.  Use your business voice\n</b></div><div>+  Communicate support and solidarity for those in peril\n</div><div>+  Communicate your commitment to playing whatever parts you can as an organisation\n</div><div>+  Change your business logo to add Ukraine colours, change or vary your websites and email signatures\n</div><div>+  Post on social media to rally support\n</div><div>+  Demand action from your government or government representative(s)\n</div><div><b><br></b></div><div><b>D.  Develop and use your economic influence \n</b></div><div>+  Discontinue business in Russia  \n</div><div>+  Terminate contracts to trade with the Russian state, Russian entities, to transport goods to or from Russia, to sell or operate there, or promote or sponsor\n</div><div>+  Squeeze the Russian economy to create internal pressure on Putin's regime through any other available means\n</div><div>+  Create new business with Ukrainians\n</div><div>+  Create or adopt codes to formulate company policy, guide future decisions and embed values\n</div><div>+  Support frameworks or multilateral efforts to deter other oppressive, coercive or oppressive regimes which disregard human rights and norms\n</div><div><br></div><div>We're asking for participating organisations to please indicate:\n</div><div><br></div><div><b>1.\n</b></div><div>If the action, or something like it, is something you have done (add any specific details if relevant)\n</div><div><br></div><div><b>2.\n</b></div><div>If it isn't an action you've undertaken yet, whether it is possible that you may do so in the future\n</div><div><br></div><div><b>3.\n</b></div><div>Whether you need help or support to undertake the action, and if so what (we'll try to coordinate)\n</div><div><br></div><div><b>4.\n</b></div><div>Lastly, please add anything else you have done, or might do, or know of, that is not (yet) listed\n</div><div><br></div><div>Simply copy and paste the above list, and type in any response under relevant actions, and send that by email to info@responsible100.com.\n</div><div><br></div><div>We'll grow the list, share updated versions, and look to coordinate help and partnerships etc. where we can.\n</div><div><br></div><div>There is no fee to participate. Responsible 100 will undertake and coordinate this effort for the reasons stated above and to the best of its ability.\n</div><div><br></div><div><b>THANK YOU for participating.</b></div><div><br></div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div><b>A. Employee wellbeing and agency\n</b></div><div>+ Check in on your colleagues: what do they think and how are they feeling?\n</div><div>+ Acknowledgement from the top (e.g. chief exec or directors) there is a crisis in Ukraine and we're all affected in different ways\n</div><div>+  Create psychological safety for employees to speak up and share their feelings, worries etc.\n</div><div>+  Seek ideas and other inputs from employees to help shape the company response\n</div><div>+  Encourage discussion and invite employees to collaborate and engage\n</div><div>+  Appoint and task company administrators or contact persons or create employee committees to undertake and coordinate company actions</div><div><br></div><div>  \n</div><div><b>B.  Donate money or other resources\n</b></div><div>+  Donate money or services to support those affected on the ground\n</div><div>+  Match fund employee donations\n</div><div>+  Allow employees to work on the company responses on company time\n</div><div><b><br></b></div><div><b>C.  Use your business voice\n</b></div><div>+  Communicate support and solidarity for those in peril\n</div><div>+  Communicate your commitment to playing whatever parts you can as an organisation\n</div><div>+  Change your business logo to add Ukraine colours, change or vary your websites and email signatures\n</div><div>+  Post on social media to rally support\n</div><div>+  Demand action from your government or government representative(s)\n</div><div><b><br></b></div><div><b>D.  Develop and use your economic influence \n</b></div><div>+  Discontinue business in Russia  \n</div><div>+  Terminate contracts to trade with the Russian state, Russian entities, to transport goods to or from Russia, to sell or operate there, or promote or sponsor\n</div><div>+  Squeeze the Russian economy to create internal pressure on Putin's regime through any other available means\n</div><div>+  Create new business with Ukrainians\n</div><div>+  Create or adopt codes to formulate company policy, guide future decisions and embed values\n</div><div>+  Support frameworks or multilateral efforts to deter other oppressive, coercive or oppressive regimes which disregard human rights and norms</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-hy",
           "_isUserblock": true,
           "_cid": "sZHzExk6aT",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text DIV": {
+              "text-align": "left"
+            },
+            ".mbr-text": {
+              "color": "#fef115"
+            }
+          },
+          "_name": "content1",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#3076e5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Please use - and add to - the list of actions&nbsp;</b></p></div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_cid": "sZ1tdICCC9",
+          "_anchor": "content1-gf",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div>This list of possible actions is freely available for people and organisations to use as they see fit. If you do find it useful, please consider contributing to its development and improvement.&nbsp;</div><div><br></div><div>We suggest the following as an excellent way to contribute, that is to copy the list and under the different actions indicate:\n</div><div><br></div><div><b>1.\n</b></div><div>If the action, or something like it, is something you have done (add any specific details if relevant)\n</div><div><br></div><div><b>2.\n</b></div><div>If it isn't an action you've undertaken yet, whether it is possible that you may do so in the future\n</div><div><br></div><div><b>3.\n</b></div><div>Whether you need help or support to undertake the action, and if so what (we'll try to coordinate)\n</div><div><br></div><div><b>4.\n</b></div><div>Lastly, please add anything else you have done, or might do, or know of, that is not (yet) listed\n</div><div><br></div><div>Simply copy and paste the above list, and type in any response under relevant actions, and send that by email to info@responsible100.com.\n</div><div><br></div><div>We'll grow the list, share updated versions, and look to coordinate help and partnerships etc. where we can.\n</div><div><br></div><div>There is no fee to participate. We'll undertake and coordinate this effort for the reasons stated below and to the best of our ability.</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-i1",
+          "_isUserblock": true,
+          "_cid": "sZLGd9NlOS",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text DIV": {
+              "text-align": "left"
+            },
+            ".mbr-text": {
+              "color": "#fef115"
+            }
+          },
+          "_name": "content1",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#3076e5\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Our rationale&nbsp;</b></p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-i0",
+          "_isUserblock": true,
+          "_cid": "sZLGc2tOXC",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text DIV": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content1",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><div>\n</div><div>The invasion of Ukraine presents the world with multiple horrors. Paul Polman ends an excellent recent <a href=\"https://www.linkedin.com/pulse/ukrainian-people-rising-moment-can-business-paul-polman-/\" class=\"text-primary\">blog</a> by urging business to \"do whatever is required of us to help restore stability, uphold basic human values and strengthen the cooperation on which all our futures depend\".</div><div><br></div><div>We agree. And i<span style=\"font-size: 1.5rem;\">t struck us that:</span></div><div><br></div><div><b>&gt;&gt; &gt;&gt;</b></div><div>Most employers and most employees want to take action in response to Putin's despicable invasion of Ukraine;</div><div><br></div><div><b>&gt;&gt;  &gt;&gt;</b></div><div>While many lists of proposed actions do exist the great majority are geared towards help individuals might provide, rather than organisations, teams or colleagues;</div><div><br></div><div><b>&gt;&gt;  &gt;&gt;</b></div><div>Some kind of check list or How To guide listing many examples of different types actions that businesses and other organisations can undertake has strong appeal; and</div><div><br></div><div><b>&gt;&gt;  &gt;&gt;</b></div><div>The greater knowledge that organisations possess in regards to all the different actions they <i>could </i>take, the greater the chances they <i>will do</i> something, or do even more than they'd planned to.</div><div><br></div><div>\n</div><div>If you can contribute to this effort, please do.&nbsp;</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div> \n</div><div>\n</div><div>\n</div><div>\n</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
+          "_isUserblock": true,
+          "_cid": "sZ1tdJjZ7V",
+          "_anchor": "content1-gg",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
