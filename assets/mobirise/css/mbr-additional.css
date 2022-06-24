@@ -2388,12 +2388,24 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s9xbbtQcIm {
-  padding-top: 75px;
-  padding-bottom: 75px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-s9xbbtQcIm P {
   color: #767676;
+}
+.cid-t9FCqqHMP2 {
+  padding-top: 45px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-t9FCqqHMP2 .mbr-text,
+.cid-t9FCqqHMP2 blockquote {
+  color: #767676;
+}
+.cid-t9FCqqHMP2 .mbr-text DIV {
+  text-align: left;
 }
 .cid-sbuk5ozQ3t {
   padding-top: 30px;
