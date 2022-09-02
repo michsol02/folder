@@ -46,7 +46,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 854,
+    "uniqCompNum": 856,
     "versionPublish": "5.4.1",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x114.png",
@@ -12455,6 +12455,68 @@
           "_isUserblock": true,
           "_cid": "tfluAjxbrv",
           "_anchor": "content1-ma",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0",
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "content10",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"10\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#82786e\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#82786e\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-2\" data-app-selector=\".section-text\" mbr-text>Definitions&nbsp;</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_anchor": "content10-nq",
+          "_isUserblock": true,
+          "_cid": "tggQ1Dfrzb",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "color": "#465052"
+            }
+          },
+          "_name": "content1",
+          "_sourceTheme": "mobirise4",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\">Below are some of the characteristics which <a href=\"https://www.edentreeim.com/insights/oppressive-regimes-2021\" class=\"text-primary\" target=\"_blank\">EdenTree</a>&nbsp;suggest are likely to be prevalent in 'Oppressive Regimes':\n<div>&gt;&gt; Authoritarian (single-party, tribal or Monarchic government); or totalitarian (military or civilian dictatorship)\n</div><div>&gt;&gt; Absence of the rule of law; arbitrary detention; disappearances; extra-judicial executions\n</div><div>&gt;&gt; Persecutions of sections of society, possibly including 'ethnic cleansing', genocide, persecution of religious and ethnic minorities\n</div><div>&gt;&gt; Torture used as part of the judicial or extra-judicial process\n</div><div>&gt;&gt; Suppression of civil society institutions\n</div><div>&gt;&gt; Restrictions on freedom of expression; persecution of human rights advocates, trades unions\n</div><div>&gt;&gt; Restrictions on freedom of movement; forced deportation\n</div><div>&gt;&gt; Restrictions on media, including censorship, surveillance, and persecution\n</div><div>&gt;&gt; State-sanctioned slave- or bonded- labour; systemic child labour\n</div><div>&gt;&gt; State-sponsored persecution or discrimination of women and girls by virtue of gender (e.g. female genital mutilation)\n</div><div>&gt;&gt; Occupation of disputed territories\n</div><div><br></div><div>EdenTree's list of oppressive regimes contains <a href=\"https://freedomhouse.org/explore-the-map\" class=\"text-primary\" target=\"_blank\">Freedom House's</a>&nbsp;'Worst of the Worst' (i.e. Syria, South Sudan, Eritrea, Turkmenistan, North Korea, Equatorial Guinea, Saudi Arabia, Somalia, Sudan, Tajikistan, Uzbekistan, Central African Republic, and Libya), as well as China, Egypt, Russia and a number of the Gulf States.</div><div>\n</div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-nr",
+          "_isUserblock": true,
+          "_cid": "tggQ2DYBsC",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
