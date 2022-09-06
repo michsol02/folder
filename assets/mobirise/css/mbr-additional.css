@@ -681,11 +681,11 @@ section.lazy-placeholder:after {
 .cid-te11zeVEEc {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #f9f9f9;
 }
 .cid-te11zeVEEc .line {
-  background-color: #efefef;
-  color: #efefef;
+  background-color: #f9f9f9;
+  color: #f9f9f9;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -693,7 +693,7 @@ section.lazy-placeholder:after {
 .cid-te11zeVEEc .section-text {
   padding: 2rem 0;
   text-align: center;
-  color: #cc2952;
+  color: #ff3366;
 }
 .cid-te11zeVEEc .inner-container {
   margin: 0 auto;
