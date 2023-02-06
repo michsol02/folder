@@ -54,7 +54,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "mbrsiteDomain": "sshidf95ty",
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-37752812-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-37752812-1');\n</script>\n\n<script async defer src=\"https://scripts.simpleanalyticscdn.com/latest.js\"></script>\n<noscript><img src=\"https://queue.simpleanalyticscdn.com/noscript.gif\" alt=\"\" referrerpolicy=\"no-referrer-when-downgrade\" /></noscript>",
@@ -30805,6 +30805,9 @@
                   }
                 }
               }
+            },
+            ".mbr-text": {
+              "color": "#465052"
             }
           },
           "_name": "content12",
@@ -30888,11 +30891,14 @@
                   }
                 }
               }
+            },
+            ".mbr-text": {
+              "color": "#465052"
             }
           },
           "_name": "content12",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\">Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\" selected>Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>EXPLORE &amp; TRIAL BETTER PRACTICES THEN REPORT BACK</b> - Assessment against our ever growing set of benchmarks, issue by issue, provides enormous value. We help you to benchmark how you currently perform as POOR, OKAY, GOOD or EXCELLENT. You’ll have unlimited access to the benchmarks, related resources, and support. We’ll help you identify better policies and practices that you can adopt right away.\n</li><li><b>THE VALUE OF CREDIBILITY</b> - Share your stories at the right time and in the right ways to generate value and credibility. A listing in our directory and access to our badge enables you to communicate your practices and values to your stakeholders. Showcase what you do well, what is work in progress, and also what you struggle with - no business is ever perfect after all. Better and best practices are work in progress, here we share and discuss what went well and what didn't for mutual benefit of all.</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>EXPLORE &amp; TRIAL BETTER PRACTICES THEN REPORT BACK</b> - Assessment against our ever growing set of benchmarks, issue by issue, provides enormous value. We help you to benchmark how you currently perform as POOR, OKAY, GOOD or EXCELLENT. You’ll have unlimited access to the benchmarks, related resources, and support. We’ll help you identify better policies and practices that you can adopt right away.\n</li><li><b>THE VALUE OF CREDIBILITY</b> - Share your stories at the right time and in the right ways to generate value and credibility. A listing in our directory and access to our badge enables you to communicate your practices and values to your stakeholders. Showcase what you do well, what is work in progress, and also what you struggle with - no business is ever perfect after all. Better and best practices are work in progress, here we share and discuss what went well and what didn't for mutual benefit of all.</li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content12-16s",
           "_isUserblock": true,
           "_cid": "tv2uNdQ2Bz",

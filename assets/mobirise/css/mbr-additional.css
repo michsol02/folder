@@ -24195,6 +24195,9 @@ section.lazy-placeholder:after {
   border-radius: 50%;
   content: '✓';
 }
+.cid-tv2uLlTVHm .mbr-text {
+  color: #465052;
+}
 .cid-te6bT9WmnV {
   padding-top: 30px;
   padding-bottom: 15px;
@@ -24239,8 +24242,10 @@ section.lazy-placeholder:after {
   width: 25px;
   height: 25px;
   border-radius: 50%;
-  border-radius: 0;
   content: '✓';
+}
+.cid-tv2uNdQ2Bz .mbr-text {
+  color: #465052;
 }
 .cid-sX9EwO7XVL {
   padding-top: 30px;
