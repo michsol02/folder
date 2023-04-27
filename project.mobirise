@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#1ba3d2",
         "#1c04bc",
         "#ffca06",
         "#eb7c0b",
         "#e9effa",
         "#f80844",
-        "#f21049",
-        "#0b9ed0"
+        "#f21049"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -89,7 +89,7 @@
             ".section-text": {
               "padding": "2rem 0",
               "text-align": "center",
-              "color": "#1c04bc"
+              "color": "#1ba3d2"
             },
             ".inner-container": {
               "margin": "0 auto"
@@ -574,7 +574,7 @@
               "color": "#465052"
             },
             "H2": {
-              "color": "#1c04bc"
+              "color": "#1ba3d2"
             }
           },
           "_name": "content4",
@@ -637,7 +637,7 @@
               "color": "#465052"
             },
             "H2": {
-              "color": "#1c04bc"
+              "color": "#1ba3d2"
             }
           },
           "_name": "content4",
