@@ -14628,95 +14628,17 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-tvmII37FWz {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+#custom-html-1de {
+  /* Type valid CSS here */
 }
-.cid-tvmII37FWz .mbr-text,
-.cid-tvmII37FWz blockquote {
-  color: #767676;
-}
-.cid-tvmII37FWz .mbr-text {
-  color: #465052;
-}
-.cid-tvmJ2GCD33 {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-tvaKeKo9sS {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #55b4d4;
-}
-.cid-tvaKeKo9sS .line {
-  background-color: #55b4d4;
-  color: #55b4d4;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-tvaKeKo9sS .section-text {
-  padding: 2rem 0;
-  text-align: left;
-  color: #ffffff;
-}
-.cid-tvaKeKo9sS .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-tvaKeKo9sS .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-tvaKhWUFbw {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-tvaKhWUFbw .counter-container {
-  color: #767676;
-}
-.cid-tvaKhWUFbw .counter-container ul {
-  margin-bottom: 0;
-}
-.cid-tvaKhWUFbw .counter-container ul li {
-  margin-bottom: 1rem;
-  list-style: none;
-  position: relative;
-}
-.cid-tvaKhWUFbw .counter-container ul li:before {
-  position: absolute;
-  left: -56px;
-  margin-top: -10px;
-  padding-top: 3px;
-  content: '';
-  display: inline-block;
+#custom-html-1de div {
+  padding: 80px 0;
+  color: #777;
   text-align: center;
-  margin: 5px 10px;
-  line-height: 20px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #0b9ed0;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
 }
-.cid-tvaKhWUFbw .mbr-text {
-  color: #465052;
-}
-.cid-tvmIONi6yP {
-  padding-top: 15px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-tvmIONi6yP .mbr-text,
-.cid-tvmIONi6yP blockquote {
-  color: #767676;
-}
-.cid-tvmIONi6yP .mbr-text {
-  color: #465052;
+#custom-html-1de p {
+  font-size: 60px;
+  color: #777;
 }
 .cid-tuKNkN8DUQ {
   padding-top: 0px;
