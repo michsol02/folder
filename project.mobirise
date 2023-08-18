@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "July 2023 version",
-    "currentPage": "page35.html",
+    "currentPage": "charitable-giving.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34117,9 +34117,9 @@
         }
       ]
     },
-    "page35.html": {
+    "charitable-giving.html": {
       "settings": {
-        "meta_descr": "Reducing Inequality",
+        "meta_descr": "How charitable is your company? Does it donate money or other resources?",
         "title": "Charitable Giving",
         "order": "10"
       },
